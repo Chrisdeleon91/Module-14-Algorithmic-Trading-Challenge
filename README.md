@@ -1,6 +1,6 @@
 # Module-14-Algorithmic-Trading-Challenge
 
-In this module, I learned how to use Pandas and the JupyterLab IDE to collect, prepare, and analyze financial data.
+In this module, I learned how to use Pandas and the JupyterLab IDE to collect, prepare and analyze financial data.
 
 For this Challenge, I’ll assume the role of a financial advisor at one of the top five financial advisory firms in the world. My firm constantly
 competes with the other major firms to manage and automatically trade assets in a highly dynamic environment. In recent years, my firm has heavily
